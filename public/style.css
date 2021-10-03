@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+*::selection {
+  color: #000;
+  background: #ffd523;
+}
 
 .color {
   color: #ffd523;
@@ -14,6 +18,7 @@
 button:hover {
   font-weight: bold;
   background-color: #fff;
+  border: 2px solid #ffd523;
   transition: hover 0.5s ease;
 }
 .shake {
