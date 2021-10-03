@@ -6,6 +6,6 @@
 
 Convert any number to binary,hezadecimal,octal and decimal
 
-## TODO
+## TODO
 
 - [ ] Handle hexadecimal characters
